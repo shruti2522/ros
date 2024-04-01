@@ -1,1 +1,1 @@
-Operating System Kernel written in Rust for learning purposes.
+**Operating System Kernel** written in **Rust** for learning purposes.
